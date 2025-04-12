@@ -1,0 +1,28 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "scripts": {
+    "install-all": "npm install && cd client && npm install && cd ../server && npm install",
+    "build": "cd client && npm run build",
+    "start": "cd server && node server.js",
+    "dev": "concurrently \"cd server && npm run dev\" \"cd client && npm run dev\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_USERNAME/REPO_NAME.git"
+  },
+  "keywords": [
+    "todo",
+    "react",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "YOUR_NAME",
+  "license": "MIT"
+}
