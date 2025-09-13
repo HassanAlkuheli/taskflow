@@ -1,3 +1,20 @@
+## Tech Stack
+
+![Tech Stack](https://github.com/YOUR_USERNAME/REPO_NAME/raw/main/path/to/tech-stack.svg)
+
+- **Frontend:**
+  - [React](https://reactjs.org/)
+  - [Axios](https://axios-http.com/)
+  - [Tailwind CSS](https://tailwindcss.com/)
+  - [DND Kit](https://dndkit.com/)
+  - [Framer Motion](https://www.framer.com/motion/)
+
+- **Backend:**
+  - [Node.js](https://nodejs.org/)
+  - [Express](https://expressjs.com/)
+  - [MongoDB](https://www.mongodb.com/)
+  - [JWT Authentication](https://jwt.io/)
+
 # Todo App
 
 A full-stack todo application built with React and Node.js.
